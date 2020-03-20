@@ -9,6 +9,7 @@ import abstractfactory.interfaces.Jeans;
 import abstractfactory.interfaces.Shoes;
 import abstractfactory.interfaces.Tshirt;
 
+// Konkreettinen tehdas: määrittelee luontioperaatioiden toteutukset
 public class BossConcreteFactory extends AbstractClothesFactory {
 
     @Override

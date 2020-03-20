@@ -5,6 +5,7 @@ import abstractfactory.interfaces.Jeans;
 import abstractfactory.interfaces.Shoes;
 import abstractfactory.interfaces.Tshirt;
 
+// Asiakas: käyttää abstraktin tehtaan ja abstraktin tuotteen rajapintoja
 public class Jasper {
 
     public void chooseFactory(AbstractClothesFactory factory){

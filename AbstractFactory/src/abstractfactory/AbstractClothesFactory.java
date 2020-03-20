@@ -6,6 +6,8 @@ import abstractfactory.interfaces.Shoes;
 import abstractfactory.interfaces.Tshirt;
 
 // An interface can be used instead of abstract class.
+
+// Abstrakti tehdas: määrittelee rajapinnat operaatioille, joilla tuotteet luodaan
 public abstract class AbstractClothesFactory {
 
     public abstract Jeans createJeans();
