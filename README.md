@@ -1,9 +1,9 @@
 # DesignPatterns
 
-### Factory Method
+### # [Factory Method](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/FactoryMethod)
 ![Abstract Factory](images/factoryMethod.png)
-### Abstract Factory
+### # [Abstract Factory](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/AbstractFactory)
 ![Abstract Factory](images/abstractFactory.png)
-### Composite
+### # [Composite](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Composite)
 ![Abstract Factory](images/composite.png)
 
