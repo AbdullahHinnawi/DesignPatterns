@@ -7,13 +7,13 @@ import java.util.Scanner;
 
 class Monopoly extends Game {
 
-    /* Implementation of necessary concrete methods */
+
     private boolean gameEnded = false;
     private List<Integer> players;
     private List<Integer> positions;
     private int player;
 
-
+    /* Implementation of necessary concrete methods */
     void initializeGame() {
 
         System.out.println("Monopoly initialized");
