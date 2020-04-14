@@ -11,4 +11,5 @@
 ### # [Strategy](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Strategy)
 ### # [ChainOfResponsibility](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/ChainOfResponsibility)
 ### # [Memento](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Memento)
+### # [Proxy](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Proxy)
 
