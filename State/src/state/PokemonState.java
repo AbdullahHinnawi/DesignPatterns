@@ -4,7 +4,7 @@ package state;
 public interface PokemonState {
 
        String tellYourName();
-       void jump();
-       void breathFire();
+       void attack();
+       void defend();
 
 }

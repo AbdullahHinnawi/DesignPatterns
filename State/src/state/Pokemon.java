@@ -15,19 +15,19 @@ public class Pokemon {
     public String tellYourName(){
          return state.tellYourName();
     }
-    public void jump(){
-        state.jump();
+    public void attack(){
+        state.attack();
     }
-    public void breathFire(){
-         state.breathFire();
+    public void defend(){
+         state.defend();
     }
 
     public void fight(){
-        jump();
-        breathFire();
+        attack();
+        defend();
         tryToEvolve();
     }
-    // Joko Pokemon tai ConcreteState voi päättää,
+    // Joko Pokemon (Context) tai ConcreteState voi päättää,
     // mikä tila seuraa mitäkin tilaa missäkin tapauksessa.
     //Protected-suojaustaso tässä ei anna lupaa tilan vaihtamiseksi muualta
     //kuin samasta pakkauksesta tai aliluokasta.

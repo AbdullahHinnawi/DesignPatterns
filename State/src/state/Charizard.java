@@ -22,15 +22,15 @@ public class Charizard implements PokemonState {
     }
 
     @Override
-    public void jump() {
+    public void attack() {
 
-        System.out.println("Charizard is jumping");
+        System.out.println("Charizard is attacking");
 
     }
 
     @Override
-    public void breathFire() {
-        System.out.println("Charizard is breathing huge fire");
+    public void defend() {
+        System.out.println("Charizard is defending");
     }
 
 }

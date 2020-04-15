@@ -27,14 +27,14 @@ public class Charmander implements PokemonState {
     }
 
     @Override
-    public void jump() {
+    public void attack() {
 
-        System.out.println("Charmander is jumping");
+        System.out.println("Charmander is attacking");
     }
 
     @Override
-    public void breathFire() {
-        System.out.println("Charmander is breathing small fire");
+    public void defend() {
+        System.out.println("Charmander is defending");
 
     }
 }

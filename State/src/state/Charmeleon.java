@@ -25,14 +25,14 @@ public class Charmeleon implements PokemonState {
     }
 
     @Override
-    public void jump() {
-        System.out.println("Charmeleon is jumping");
+    public void attack() {
+        System.out.println("Charmeleon is attacking");
 
     }
 
     @Override
-    public void breathFire() {
-        System.out.println("Charmeleon is breathing medium fire");
+    public void defend() {
+        System.out.println("Charmeleon is defending");
 
     }
 
