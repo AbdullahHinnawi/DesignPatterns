@@ -17,5 +17,6 @@
 ### 4. [Template Method](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/TemplateMethod)
 ### 5. [ChainOfResponsibility](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/ChainOfResponsibility)
 ### 6. [Memento](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Memento)
+### 7. [Visitor](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Visitor)
 
 
