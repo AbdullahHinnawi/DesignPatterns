@@ -10,6 +10,7 @@
 ### 1. [Composite](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Composite)
 ### 2. [Decorator](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Decorator)
 ### 3. [Proxy](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Proxy)
+### 4. [Adapter](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Adapter)
 
 ## # Behavioral Patterns
 ### 1. [Observer](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Observer)
