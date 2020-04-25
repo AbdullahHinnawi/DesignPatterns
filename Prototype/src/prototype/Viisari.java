@@ -19,6 +19,8 @@ public class Viisari implements Cloneable {
 
     // By convention, classes that implement Cloneable interface should override
     // clone() method (which is protected) with a public method.
+    // Javalla oletustoteutus clone()-operaatiolle toteuttaa matalakopioinnin (shallow copy)
+    //eli klooni viittaa samoihin osaolioihin kuin alkuperäinenkin.
     @Override
     public Viisari clone() throws CloneNotSupportedException {
         // Matalakopio (shallow copy)

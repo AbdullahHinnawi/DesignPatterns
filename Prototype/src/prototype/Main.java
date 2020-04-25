@@ -12,6 +12,7 @@ public class Main {
     kloonattuKello.getTunti().setArvo(4);
     kloonattuKello.getMinuutti().setArvo(45);
 
+
     System.out.println("kloonattuKello:" + kloonattuKello.getTunti().getArvo() + "." + kloonattuKello.getMinuutti().getArvo());
     System.out.println("kello:" + kello.getTunti().getArvo() + "." + kello.getMinuutti().getArvo());
     }

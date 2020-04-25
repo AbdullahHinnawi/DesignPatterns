@@ -7,7 +7,6 @@ public class Kello  implements Cloneable {
     public Kello(int t, int m){
         this.tunti = new Viisari(t);
         this.minuutti = new Viisari(m);
-
     }
 
     public Viisari getTunti() {
@@ -26,13 +25,18 @@ public class Kello  implements Cloneable {
         this.minuutti = minuutti;
     }
 
-
+    // Javalla oletustoteutus clone()-operaatiolle toteuttaa matalakopioinnin (shallow copy)
+    // eli klooni viittaa samoihin osaolioihin kuin alkuperäinenkin.
+    // Jos halutaan syväkopio (deep copy), clone() pitää ylikirjoittaa siten, että se
+    // kloonaa myös viitattavat oliot, ks. tunti ja minuutti.
     @Override
     public Kello clone(){
         // Syväkopio (deep copy)
         Kello k = null;
         try{
             k = (Kello) super.clone();
+            // kun Kello luokassa toteutetaan syväkopiointi, myös Viisari olioista (tunti ja minuutti) pitää tehdä kopio,
+            // eli kloonattu kello saa oma tunti & minuutti oliot.
             k.tunti =  tunti.clone();
             k.minuutti = minuutti.clone();
 
