@@ -5,6 +5,7 @@
 ### 2. [Abstract Factory](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/AbstractFactory)
 ### 3. [Singleton](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Singleton)
 ### 4. [Builder](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Builder)
+### 5. [Prototype](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Prototype)
 
 ## # Structural Patterns
 ### 1. [Composite](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Composite)
