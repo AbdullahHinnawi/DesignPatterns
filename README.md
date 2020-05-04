@@ -12,6 +12,7 @@
 ### 2. [Decorator](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Decorator)
 ### 3. [Proxy](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Proxy)
 ### 4. [Adapter](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Adapter)
+### 5. [Facade](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Facade)
 
 ## # Behavioral Patterns
 ### 1. [Observer](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Observer)
