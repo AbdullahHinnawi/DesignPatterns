@@ -23,5 +23,6 @@
 ### 6. [Memento](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Memento)
 ### 7. [Visitor](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Visitor)
 ### 8. [Command](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Command)
+### 9. [Mediator](https://github.com/AbdullahHinnawi/DesignPatterns/tree/master/Mediator)
 
 
